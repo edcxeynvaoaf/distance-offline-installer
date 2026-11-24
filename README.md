@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Distance is an atmospheric racing platformer. Fusing futuristic arcade racing with parkour, survive a deadly, mysterious, neon-drenched city by jumping, rotating, and flying.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,15 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | OS X 10.7 (Lion) |
+| **Processor** | Min: Intel Core 2 Duo 2.3 GHz or AMD Athlon X2 2.5 GHz / Rec: Intel Core i5 2.5 GHz or AMD FX 4.0 GHz | Intel Core 2 Duo 2.3 GHz |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce 8800GT or AMD Radeon HD 3830 / Rec: NVIDIA GeForce GTX 560 or AMD Radeon HD 7750 | NVIDIA Geforce 640M or ATI Radeon HD 3870 |
+| **DirectX** | Version 9.0c | Version 9.0c |
+| **Storage** | 5 GB available space | 5 GB available space |
+| **OS *** | Windows 7 | Windows 7 |
+| **VR Support** | SteamVR or Oculus PC. Keyboard or gamepad required | SteamVR or Oculus PC. Keyboard or gamepad required |
+| **Additional Notes** | Spec will be revised continually during Early Access | Spec will be revised continually during Early Access |
 
 ---
 
